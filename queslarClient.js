@@ -6,7 +6,8 @@ module.exports = class QueslarClient {
     this.apiKey = apiKey;
   }
 
-  // Get player info
+  // Make any api call
+  // https://queslar.com/api/<endpoint>/arg1/arg2/arg3.../<apiKey>
   async call(endpoint, ...args) {
     let uri;
     if (args.length) {
