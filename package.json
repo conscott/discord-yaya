@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "request": "^2.88.2"
+  },
+  "name": "discord-yaya",
+  "version": "1.0.0",
+  "description": "Fuck The Fed",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conscott/discord-yaya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conscott/discord-yaya/issues"
+  },
+  "homepage": "https://github.com/conscott/discord-yaya#readme"
+}
